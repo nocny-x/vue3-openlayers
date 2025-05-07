@@ -1,5 +1,26 @@
 
 
+## [11.6.1](https://github.com/MelihAltintas/vue3-openlayers/compare/v11.6.0...v11.6.1) (2025-05-05)
+
+
+### Bug Fixes
+
+* **ol-*-layer:** support missing `preview` option ([1c3e85c](https://github.com/MelihAltintas/vue3-openlayers/commit/1c3e85c7f5009b13013d87b4493e07ea8a51a862)), closes [#423](https://github.com/MelihAltintas/vue3-openlayers/issues/423)
+* **ol-interaction-transform:** ol-interaction-transform not working ([f027dca](https://github.com/MelihAltintas/vue3-openlayers/commit/f027dca352305d131fedbd69b4f2545e778d6e27))
+
+# [11.6.0](https://github.com/MelihAltintas/vue3-openlayers/compare/v11.5.0...v11.6.0) (2025-05-03)
+
+
+### Bug Fixes
+
+* import correctly ([9c6fa3d](https://github.com/MelihAltintas/vue3-openlayers/commit/9c6fa3d867e4a28a958ae85ff94afedd1787cf21))
+* **ol-layer-*:** handle undefined layer opacity correctly ([#425](https://github.com/MelihAltintas/vue3-openlayers/issues/425)) ([84943c8](https://github.com/MelihAltintas/vue3-openlayers/commit/84943c80cd689929396b985620e6867f777f0c7c))
+
+
+### Features
+
+* **ol-style-text:** support all ol props ([c1d050f](https://github.com/MelihAltintas/vue3-openlayers/commit/c1d050f3dd077e9e13d08e2161f2029456313eec)), closes [#411](https://github.com/MelihAltintas/vue3-openlayers/issues/411)
+
 # [11.5.0](https://github.com/MelihAltintas/vue3-openlayers/compare/v11.4.0...v11.5.0) (2025-02-26)
 
 
